@@ -12,6 +12,8 @@
   [![Documentation][docs-shield]][docs-url]
   [![Project Credits][credits-shield]][credits-url]
 
+  
+
   [EcoSphereNetwork](https://github.com/EcoSphereNetwork/EcoSphereNetwork)
 
   [NovaProtocol](https://github.com/EcoSphereNetwork/NovaProtocol) • [CyberSpace](https://github.com/EcoSphereNetwork/CyberSpace)
