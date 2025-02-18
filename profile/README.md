@@ -61,11 +61,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 <div align="center">
 
-### Repository Activity
-
-[![Repository Activity][activity-graph]][activity-url]
-
-</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/EcoSphereNetwork/Repo-Template_-new-?style=for-the-badge&color=blue
