@@ -31,34 +31,32 @@
 ## 🎯 About
 **EcoSphere Networks – Nachhaltige, dezentrale KI-Infrastruktur**  
 
-### Herausforderungen der IT-Landschaft  
-Die steigende Nutzung künstlicher Intelligenz führt zu hohen Energieverbräuchen und zentralisierten Strukturen, die vor allem großen Konzernen nutzen. EcoSphere Networks entwickelt eine nachhaltige Alternative mit ressourcenschonenden IT-Lösungen.  
-
 ### Nachhaltige, dezentrale KI  
 Das Geschäftsmodell basiert auf:  
 - **Dezentralen Serverfarmen** mit erneuerbaren Energien  
 - **Ökologischen Energieparks** zur Kombination von KI und nachhaltiger Landwirtschaft  
 - **Open-Source-Software** für effizientes KI-Management  
 
-### EcoTech Farms – Nachhaltige Serverfarmen  
-Die Serverfarmen kombinieren Landwirtschaft, Energieparks und IT, um Flächen ökologisch sinnvoll zu nutzen:  
-- **Neue EcoTech Farms** mit eigener Infrastruktur  
-- **Integration in bestehende Betriebe** durch EcoTech Strips mit Solarpanels und Biodiversitätsförderung  
-
 ### Softwarelösungen  
 - **Smolitux OS & Smolit-Assistant** – KI-optimiertes Linux-Betriebssystem  
 - **SmoliTradeOS & SmoliTrade-App** – KI-gestütztes Trading  
 - **ESN_Token** – Blockchain-basiertes Ökosystem  
-- **Smolit_LLM-NN** – Entwicklung großer Sprachmodelle  
+- **Smolit_LLM-NN** – Entwicklung großer Sprachmodelle
+
+### Games
+
+- **NovaProtocol – Innovatives PvE-Survival-Spiel:**
+  - **Spielbeschreibung:** Offene Welterkundung kombiniert mit fesselnder Science-Fiction-Story. Spieler als Erkundungspiloten suchen neue Lebensräume für die Menschheit.
+  - **Gameplay:** Erkundung eines riesigen Universums, Terraforming von Planeten, Ressourcensammlung, Überleben in feindlichen Umgebungen, Bau eigener Raumstationen, Interaktion mit dynamischen Fraktionen. Einzelspieler- und kooperative Multiplayer-Modi verfügbar.
+ 
+- **CyberSpace – Immersive 3D-Plattform:**
+  - **Hauptmerkmale:** 3D-Netzwerkvisualisierung, Echtzeit-Datenanalyse, Multi-User-Kollaboration, Plug-in-System, VR/AR-Unterstützung.
+  - **Visualisierung:** Interaktive Darstellung von Netzwerktopologien, Datenflüssen und Systemmetriken in 3D.
 
 ### DAO & Transparenz  
-Als **Decentralized Autonomous Organization (DAO)** ermöglicht EcoSphere Networks eine offene, transparente Steuerung durch Smart Contracts und eine kollaborative Entwicklung über GitHub.  
+Als **Decentralized Autonomous Organization (DAO)** ermöglicht EcoSphere Networks eine offene, transparente Steuerung durch Smart Contracts und eine kollaborative Entwicklung über GitHub.
 
-### Zielgruppen & Zukunft  
-- **Landwirtschaft** – Nutzung lokaler Rechenzentren und erneuerbarer Energien  
-- **KMUs & Privatanwender** – Skalierbare IT-Infrastruktur ohne Abhängigkeit von Tech-Konzernen  
 
-**Fazit:** EcoSphere Networks schafft ein nachhaltiges IT-Ökosystem, das Technologie mit Umwelt und Gesellschaft verbindet.
 
 
 ## 🤝 Contributing
