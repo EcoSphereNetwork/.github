@@ -33,9 +33,9 @@
 
 ### Nachhaltige, dezentrale KI  
 Das Geschäftsmodell basiert auf:  
-- **Dezentralen Serverfarmen** mit erneuerbaren Energien  
-- **Ökologischen Energieparks** zur Kombination von KI und nachhaltiger Landwirtschaft  
 - **Open-Source-Software** für effizientes KI-Management  
+- **Dezentralen Serverfarmen** mit erneuerbaren Energien  
+- **Game Development** für ein dezentrales Metaverse mit immersiven Welten, KI-gesteuerten Interaktionen und Blockchain-Integration  
 
 ### Softwarelösungen  
 - **Smolitux OS & Smolit-Assistant** – KI-optimiertes Linux-Betriebssystem  
