@@ -56,7 +56,7 @@ Das Geschäftsmodell basiert auf:
 ### DAO & Transparenz  
 Als **Decentralized Autonomous Organization (DAO)** ermöglicht EcoSphere Networks eine offene, transparente Steuerung durch Smart Contracts und eine kollaborative Entwicklung über GitHub.
 
-
+---
 
 
 ## 🤝 Contributing
