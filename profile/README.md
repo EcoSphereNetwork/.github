@@ -28,7 +28,7 @@
 </div>
 
 
-## ESN About
+## About ESN 
 **EcoSphere Networks – Nachhaltige, dezentrale AI-Infrastruktur**  
 
 ### Nachhaltige, dezentrale KI  
