@@ -24,14 +24,14 @@
   
   [SmolitTradeOS](https://github.com/EcoSphereNetwork/SmoliTradeOS) • [SmolitTrade-App](https://github.com/EcoSphereNetwork/SmoliTrade-App) • [SmoliToken](https://github.com/SamSchim/SmoliToken)
 
-  [FOR CONTRIBUTORS](https://app.dework.xyz/ecosphere-networks)
+  [FOR CONTRIBUTORS](https://app.dework.xyz/ecosphere-Network)
 </div>
 
 
 ## About ESN 
-_**EcoSphere Networks – Nachhaltige, dezentrale AI-Infrastruktur**_
+_**EcoSphere Network – Nachhaltige, dezentrale AI-Infrastruktur**_
 
-### Nachhaltige, dezentrale KI  
+### Nachhaltige, dezentrale Artificial intelligence
 Das Geschäftsmodell basiert auf:  
 - **Open-Source-Software** für effizientes AI-Management  
 - **Dezentralen Serverfarmen** mit erneuerbaren Energien  
@@ -41,7 +41,7 @@ Das Geschäftsmodell basiert auf:
 - **Smolitux OS & Smolit-Assistant** – AI-optimiertes Linux-Betriebssystem  mit AI-Agent
 - **SmoliTradeOS & SmoliTrade-App** – AI-gestütztes Trading  
 - **ESN_Token** – Blockchain-basiertes Ökosystem  
-- **Smolit_LLM-NN** – Entwicklung großer Sprachmodelle
+- **Smolit_LLM-NN** – Entwicklung Neuronaler Netzwerke für AI-Agents
 
 ### Games
 
@@ -54,7 +54,7 @@ Das Geschäftsmodell basiert auf:
   - **Visualisierung:** Interaktive Darstellung von Netzwerktopologien, Datenflüssen und Systemmetriken in 3D.
 
 ### DAO & Transparenz  
-Als **Decentralized Autonomous Organization (DAO)** ermöglicht EcoSphere Networks eine offene, transparente Steuerung durch Smart Contracts und eine kollaborative Entwicklung über GitHub.
+Als **Decentralized Autonomous Organization (DAO)** ermöglicht EcoSphere Network eine offene, transparente Steuerung durch Smart Contracts und eine kollaborative Entwicklung über GitHub.
 
 ---
 
