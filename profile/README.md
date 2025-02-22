@@ -28,18 +28,18 @@
 </div>
 
 
-## 🎯 About
-**EcoSphere Networks – Nachhaltige, dezentrale KI-Infrastruktur**  
+## ESN About
+**EcoSphere Networks – Nachhaltige, dezentrale AI-Infrastruktur**  
 
 ### Nachhaltige, dezentrale KI  
 Das Geschäftsmodell basiert auf:  
-- **Open-Source-Software** für effizientes KI-Management  
+- **Open-Source-Software** für effizientes AI-Management  
 - **Dezentralen Serverfarmen** mit erneuerbaren Energien  
-- **Game Development** für ein dezentrales Metaverse mit immersiven Welten, KI-gesteuerten Interaktionen und Blockchain-Integration  
+- **Game Development** für ein dezentrales Metaverse mit immersiven Welten, AI-gesteuerten Interaktionen und Blockchain-Integration  
 
 ### Softwarelösungen  
-- **Smolitux OS & Smolit-Assistant** – KI-optimiertes Linux-Betriebssystem  
-- **SmoliTradeOS & SmoliTrade-App** – KI-gestütztes Trading  
+- **Smolitux OS & Smolit-Assistant** – AI-optimiertes Linux-Betriebssystem  mit AI-Agent
+- **SmoliTradeOS & SmoliTrade-App** – AI-gestütztes Trading  
 - **ESN_Token** – Blockchain-basiertes Ökosystem  
 - **Smolit_LLM-NN** – Entwicklung großer Sprachmodelle
 
