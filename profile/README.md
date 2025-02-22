@@ -29,7 +29,7 @@
 
 
 ## About ESN 
-**EcoSphere Networks – Nachhaltige, dezentrale AI-Infrastruktur**  
+_**EcoSphere Networks – Nachhaltige, dezentrale AI-Infrastruktur**_
 
 ### Nachhaltige, dezentrale KI  
 Das Geschäftsmodell basiert auf:  
