@@ -31,15 +31,13 @@ Wir bauen eine **offene und transparente Alternative zur zentralisierten Tech-In
 
 Gemeinsam entwickeln wir ein breites Spektrum an Open-Source-Tools – von Betriebssystemen über KI-Plattformen bis hin zu dezentralen Bildungs- und Handelslösungen.
 
-| Partner Projekt     | Beschreibung                                                                 |
-|---------------------|------------------------------------------------------------------------------|
-| `coming soon`       | Linux-basiertes Betriebssystem mit integriertem KI-Management                |
-| `comming soon`  | Intelligenter KI-Assistent für persönliche Unterstützung und Systemsteuerung   |
-| `comming soon`         | Blockchain-basierter Token für DAO & Community-Governance                   |
-| `comming soon`  | Lernplattform für KI, Web3 und Open Source-Technologien                     |
-| `comming soon`     | Eigene Sprachmodelle & neuronale Netze für dezentrale KI                    |
-| `comming soon`        | Metaverse-Komponenten & virtuelle Interaktionsprotokolle                    |
-
+| Partner  |  Projekt     | Beschreibung                                                                 |
+|----------|--------------|------------------------------------------------------------------------------|
+| [Modularium](https://github.com/Modularium) | `coming soon`       | Linux-basiertes Betriebssystem mit integriertem KI-Management                |
+| [Modularium](https://github.com/Modularium) | `comming soon`  | Intelligenter KI-Assistent für persönliche Unterstützung und Systemsteuerung   |
+| [Modularium](https://github.com/Modularium) | `comming soon`         | Blockchain-basierter Token für DAO & Community-Governance                   |
+| [Modularium](https://github.com/Modularium) | `comming soon`     | Eigene Sprachmodelle & neuronale Netze für dezentrale KI                    |
+| [Modularium](https://github.com/Modularium) | `comming soon`        | Metaverse-Komponenten & virtuelle Interaktionsprotokolle                    |
 
 ##  Mitmachen
 
