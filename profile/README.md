@@ -3,7 +3,7 @@
 **Open-Source-Software für eine nachhaltige digitale Zukunft.  
 Wir entwickeln dezentrale KI-Systeme und Infrastrukturtechnologien.**
 
-EcoSphereNetwork (ESN) ist ein Software- und KI-Entwicklungsunternehmen mit Fokus auf nachhaltige, dezentrale IT-Lösungen. Unser Ziel ist es, ressourcenschonende Technologien zu entwickeln, die gesellschaftlich sinnvoll, ökologisch verträglich und gemeinschaftlich nutzbar sind.
+EcoSphereNetwork (ESN) ist ein Netzwerk aus Software- und KI-Entwicklungsunternehmen mit Fokus auf nachhaltige, dezentrale IT-Lösungen. Unser Ziel ist es, ressourcenschonende Technologien zu entwickeln, die einen gesellschaftlichen Mehrwert bieten, und wirtschaftlich nutzbar sind.
 
 ##  Unsere Vision
 
@@ -20,12 +20,15 @@ Wir entwickeln ein breites Spektrum an Open-Source-Tools – von Betriebssysteme
 
 | Projekt             | Beschreibung                                                                 |
 |---------------------|------------------------------------------------------------------------------|
-| `coming soon`       | Linux-basiertes Betriebssystem mit integriertem KI-Management                |
-| `comming soon`  | Intelligenter KI-Assistent für persönliche Unterstützung und Systemsteuerung   |
+| [EcoTechFarms](https://github.com/EcoSphereNetwork/EcoTechFarms)  |  Eine dezentrale Serverinfrastruktur mit erneuerbarer Energie  |
+| [OceanData](https://github.com/EcoSphereNetwork/OceanData)  |  Daten Erfassung und Monetarisierung, DSGVO konform  |
+|                     |                                       |
+|                     |                                       |
 | `comming soon`         | Blockchain-basierter Token für DAO & Community-Governance                   |
+|                     |                                       |
+|                     |                                       |
 | `comming soon`  | Lernplattform für KI, Web3 und Open Source-Technologien                     |
-| `comming soon`     | Eigene Sprachmodelle & neuronale Netze für dezentrale KI                    |
-| `comming soon`        | Metaverse-Komponenten & virtuelle Interaktionsprotokolle                    |
+
 
 ##  Mitmachen
 
